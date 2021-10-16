@@ -1,0 +1,12 @@
+.title {
+  font-size: 38px;
+}
+
+.value {
+  font-size: 22px;
+}
+
+.statistics {
+  display: flex;
+  flex-direction: column;
+}
